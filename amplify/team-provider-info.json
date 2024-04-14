@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cclproject-dev-5350b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::339712718987:role/amplify-cclproject-dev-5350b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::339712718987:role/amplify-cclproject-dev-5350b-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-cclproject-dev-5350b-deployment",
+      "UnauthRoleName": "amplify-cclproject-dev-5350b-unauthRole",
+      "StackName": "amplify-cclproject-dev-5350b",
+      "StackId": "arn:aws:cloudformation:ap-south-1:339712718987:stack/amplify-cclproject-dev-5350b/2b69a310-fa13-11ee-974f-028cc8ea0c4f",
+      "AmplifyAppId": "d1org930owiq6j"
+    },
+    "categories": {
+      "auth": {
+        "cclprojectccf5076c": {}
+      },
+      "api": {
+        "cclproject": {}
+      },
+      "storage": {
+        "imagestorage": {}
+      }
+    }
+  }
+}
